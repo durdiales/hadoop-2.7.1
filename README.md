@@ -4,5 +4,5 @@
 
 In iot-reactive-example repository, the Measure Analytics module needs Hadoop installed for run the examples. 
 
-You can download this Hadoop version with which the examples run right
+You can download this Hadoop version in which the examples run right
 
